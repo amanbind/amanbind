@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Information Technology Student  
 
 # 💫 About Me:
 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.<br>📚 I’m currently learning everything about Frontend and Backend technologies 😅<br>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>😄 Fun fact: I love Cars(🚗), Coding(💻), Traveling(🌍), and Photography(📷).
